@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "a3df35874140929f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83ea406e574fd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e625ef125ad5c45f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-31---SQLite-Beginner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57682f95cfccabd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a68a2fe672768fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4de10f57a66419f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e9191c74eaaf345",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7f40ce97497a96e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f96aa8e535bc06ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a8c2f4ef4414562",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5293c643fbdafaf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-07-31---SQLite-Beginner.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a066fddb3d3d6c35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-07-31---SQLite-Beginner.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e69c8caae53e7809",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2971b2924c34bcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-07-31---SQLite-Beginner.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "e625ef125ad5c45f",
+  "lastOpenFiles": [
+    "2024-08-02---Rocky-Stick-erstellen.md",
+    "2024-08-02---VIM-Tutor.md",
+    "2024-08-02---iNodes.md",
+    "2024-08-02---Rocky-Shell-Expression.md",
+    "Pasted image 20240802131150.png",
+    "2024-07-31---SQLite-Beginner.md",
+    "2024-07-30---rocky-install.md",
+    "2024-07-30---rocky-postgresql-install.md",
+    "2024-08-01---SQLite-PrimaryKey.md",
+    "Pasted image 20240731143708.png",
+    "Pasted image 20240731142555.png",
+    "Pasted image 20240731142517.png",
+    "Pasted image 20240731142237.png",
+    "Pasted image 20240731141335.png",
+    "Pasted image 20240731140650.png",
+    "Pasted image 20240731135949.png",
+    "Pasted image 20240731135834.png",
+    "Pasted image 20240730150428.png",
+    "2024-07-22 README.md",
+    "2024-07-26---cSharp-DesignPattern_III-Interface.md",
+    "2024-07-25---cSharp-Design-Pattern.md",
+    "2024-07-26---cSharp_DesignPattern_II.md",
+    "2024-07-24---docker-install.md",
+    "2024-07-22---SQL-cSahrp.md",
+    "2024-07-17---cSharp-sql.md",
+    "Welcome.md",
+    "create a link.md",
+    "Untitled.canvas"
+  ]
+}
